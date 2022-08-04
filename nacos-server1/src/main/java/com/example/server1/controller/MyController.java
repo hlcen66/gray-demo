@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/test")
 public class MyController {
 
-
     /**
      * 稳定版本1.0
      * @return
